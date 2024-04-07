@@ -12,6 +12,7 @@ import run.halo.app.model.enums.Mode;
  * 该注解可以限制某些条件下禁止访问api
  *
  * @author guqing
+ * @author guqing
  * @date 2020-02-14 13:48
  */
 @Target(ElementType.METHOD)
